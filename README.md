@@ -1,4 +1,4 @@
-Mean and variance of a discrete  distribution
+# Mean and variance of a discrete  distribution
 # Ex no:1
 # Date:
 # Name: SHYAM GIDEON
